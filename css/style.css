@@ -529,7 +529,7 @@ input[type=radio]:checked:before {
     position: absolute;
     width: 26px;
     height: 26px;
-    background: #b08c3e;
+    background: #83a297;
     animation: lds-heart 1.2s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
 }
 
@@ -540,7 +540,7 @@ input[type=radio]:checked:before {
     display: block;
     width: 26px;
     height: 26px;
-    background: #b08c3e;
+    background: #83a297;
 }
 
 .lds-heart div:before {
@@ -686,7 +686,7 @@ input[type=radio]:checked:before {
 }
 
 .nav-scroll .navbar-toggler-icon {
-    color: #b08c3e;
+    color: #83a297;
 }
 
 .nav-scroll .navbar-nav .nav-link {
@@ -694,7 +694,7 @@ input[type=radio]:checked:before {
 }
 
 .nav-scroll .navbar-nav .active {
-    color: #b08c3e !important;
+    color: #83a297 !important;
 }
 
 .nav-scroll .navbar-nav .logo {
